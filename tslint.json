@@ -308,7 +308,7 @@
         false,
         5,
         "exclude-class-expressions"
-      ], // the rules below are sonarcube rules
+      ], 
       "cognitive-complexity": [
         true,
         10
